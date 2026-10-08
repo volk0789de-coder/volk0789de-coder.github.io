@@ -1,0 +1,8 @@
+User-agent: Google-adstxt
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Allow: /
